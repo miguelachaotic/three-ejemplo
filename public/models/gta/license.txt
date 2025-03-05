@@ -1,0 +1,11 @@
+Model Information:
+* title:	GTA 3 Liberty City Police Dep.
+* source:	https://sketchfab.com/3d-models/gta-3-liberty-city-police-dep-c3866dfd65c64acd889cd09b869f8ef0
+* author:	Abihfffggd (https://sketchfab.com/Abihfffggd)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "GTA 3 Liberty City Police Dep." (https://sketchfab.com/3d-models/gta-3-liberty-city-police-dep-c3866dfd65c64acd889cd09b869f8ef0) by Abihfffggd (https://sketchfab.com/Abihfffggd) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
